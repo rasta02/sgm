@@ -1,0 +1,8 @@
+.tabelku {
+    overflow: auto;
+    display: block;
+}
+
+#alamat {
+    resize: none;
+}
